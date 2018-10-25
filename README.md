@@ -2,6 +2,7 @@
 Code from the Security Weekly session on Covering Tracks &amp; Evading Detection
 
 Links to other scripts & references:
+
 Invoke-Phant0m (Event log thread termination)
 https://github.com/hlldz/Invoke-Phant0m
 
