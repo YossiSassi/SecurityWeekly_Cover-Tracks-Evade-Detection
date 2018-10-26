@@ -1,6 +1,9 @@
 # SecurityWeekly Talk - Try {} Catch {}
 Code from the Security Weekly session on Covering Tracks &amp; Evading Detection
 
+Slides:
+https://www.slideshare.net/yossis1/try-stuff-catch-hopefully-not-evading-detection-covering-tracks
+
 Links to other scripts & references:
 
 Invoke-Phant0m (Event log thread termination)
